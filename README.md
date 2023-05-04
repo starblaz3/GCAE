@@ -1,2 +1,2 @@
 # GCAE
-Implemented and improved Deep Convolutional Auto-Encoder DL model as part of a ML course(SMAI-monsoon)
+Implemented and improved Gated Convolutional network with Aspect Embedding model as part of a ML course(SMAI-monsoon)
